@@ -1,3 +1,7 @@
 *.log
 *.[oa]
 !lib.a
+.version
+.config
+include/
+Module.symvers

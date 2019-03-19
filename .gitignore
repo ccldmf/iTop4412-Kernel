@@ -3,5 +3,14 @@
 !lib.a
 .version
 .config
+*.cmd
 include/
+.scmversion
+*.d
+*.tmp_*
 Module.symvers
+System.map
+*lib.a
+*vmlinux
+*bounds.s
+*offsets.s
